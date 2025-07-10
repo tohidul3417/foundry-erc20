@@ -22,7 +22,7 @@
 
 This project provides a clear and robust implementation of a standard ERC20 token, built using the Foundry development framework. It leverages the industry-standard OpenZeppelin ERC20 contracts to create a simple, fungible token.
 
-This repository was completed as a code-along project for the **Advanced Foundry** course offered by Cyfrin Updraft. It serves as an excellent starting point for anyone looking to learn about token creation on EVM-compatible blockchains or for developers needing a clean boilerplate for a new ERC20 project with Foundry.
+This project was completed as part of the Advanced Foundry course offered by Cyfrin Updraft.
 
 ## Getting Started
 
